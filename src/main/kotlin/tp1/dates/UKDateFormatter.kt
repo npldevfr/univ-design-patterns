@@ -1,4 +1,4 @@
-package tp1
+package tp1.dates
 
 import java.text.SimpleDateFormat
 import java.util.*
